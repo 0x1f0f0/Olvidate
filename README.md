@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Olvidate/Olvidate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Benjamin A.K.A Olvidate from Chile. 
+I'm currently working on my last project: <b>FiveZone</b><br>
 
-Here are some ideas to get you started:
+<p>
+  <img width="100" src="https://media.discordapp.net/attachments/848048649866444830/856398895888990268/logo.png" alt="FiveZone">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Who is FiveZone?
+
+- FiveZone is a serious Spanish roleplaying experience, who wants the best quality in roleplay and systems.
+In short, we are the community that will change the vision of the role in the Spanish community.
+
+You can get more information on: https://discord.gg/fivezone
+
+![](https://komarev.com/ghpvc/?username=olvidate)
